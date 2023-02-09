@@ -1,0 +1,1 @@
+A simple flutter project to illustrate the way to implement pdf viewer where pdf file is loaded from url
